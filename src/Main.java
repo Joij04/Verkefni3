@@ -1,5 +1,7 @@
-import is.hi.ekg22.hbv202.ass3.frontend.UserInterface;
-import is.hi.ekg22.hbv202.ass3.backend.*;
+package src;
+
+import src.is.hi.ekg22.hbv202.ass3.frontend.UserInterface;
+import src.is.hi.ekg22.hbv202.ass3.backend.Greeter;
 
 public class Main {
 

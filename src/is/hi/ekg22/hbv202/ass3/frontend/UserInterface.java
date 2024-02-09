@@ -1,4 +1,4 @@
-package is.hi.ekg22.hbv202.ass3.frontend;
+package src.is.hi.ekg22.hbv202.ass3.frontend;
 
 public class UserInterface {
     public void show(String greeting) {

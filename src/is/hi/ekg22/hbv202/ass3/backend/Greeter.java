@@ -1,4 +1,4 @@
-package is.hi.ekg22.hbv202.ass3.backend;
+package src.is.hi.ekg22.hbv202.ass3.backend;
 
 public class Greeter {
 
